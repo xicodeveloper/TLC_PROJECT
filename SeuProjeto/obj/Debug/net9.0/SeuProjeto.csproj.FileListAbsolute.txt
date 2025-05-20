@@ -9,6 +9,7 @@ C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\
 C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\obj\Debug\net9.0\SeuProjeto.AssemblyInfoInputs.cache
 C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\obj\Debug\net9.0\SeuProjeto.AssemblyInfo.cs
 C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\obj\Debug\net9.0\SeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\obj\Debug\net9.0\SeuProjeto.sourcelink.json
 C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\obj\Debug\net9.0\SeuProjeto.csproj.Up2Date
 C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\obj\Debug\net9.0\SeuProjeto.dll
 C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\obj\Debug\net9.0\refint\SeuProjeto.dll

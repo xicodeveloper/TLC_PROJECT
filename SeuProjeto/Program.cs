@@ -16,7 +16,8 @@ class Program
             var lexer = new PICOLexer(stream);
             var tokens = new CommonTokenStream(lexer);
             var parser = new PICOParser(tokens);
-            
+            parser.RemoveErrorListeners();
+            parser.AddErrorListener(new PicoErrorListener());
             var tree = parser.program();
             var translator = new PicoVisit();
             var csharpCode = translator.Visit(tree);
