@@ -1,0 +1,48 @@
+// Programa PICO completo com todas as estruturas sintáticas
+read a;
+read b;
+
+sum = a + b;
+diff = a - b;
+prod = a * b;
+quotient = a / b;
+
+if sum > 10 then
+    print sum;
+    if diff < 5 then
+        temp = (prod + 2) * diff;
+        print temp;
+    else
+        temp = (prod / diff) - 3;
+        print temp;
+    end;
+else
+    if quotient == 2 then
+        counter = 5;
+        while counter >= 1 do
+            print counter;
+            counter = counter - 1;
+        end;
+    else
+        if a != b then
+            mod = (a * 2) - (b / 2);
+            print mod;
+        else
+            print 0;
+        end;
+    end;
+end;
+
+result = (sum + diff) * (prod - quotient);
+if result <= 100 then
+    print result;
+else
+    print 999;
+end;
+
+x = 1;
+while x < 5 do
+    square = x * x;
+    print square;
+    x = x + 1;
+end;

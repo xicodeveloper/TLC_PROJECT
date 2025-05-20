@@ -1,0 +1,17 @@
+C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\bin\Debug\net9.0\SeuProjeto.exe
+C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\bin\Debug\net9.0\SeuProjeto.deps.json
+C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\bin\Debug\net9.0\SeuProjeto.runtimeconfig.json
+C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\bin\Debug\net9.0\SeuProjeto.dll
+C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\bin\Debug\net9.0\SeuProjeto.pdb
+C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\bin\Debug\net9.0\Antlr4.Runtime.Standard.dll
+C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\obj\Debug\net9.0\SeuProjeto.csproj.AssemblyReference.cache
+C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\obj\Debug\net9.0\SeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\obj\Debug\net9.0\SeuProjeto.AssemblyInfoInputs.cache
+C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\obj\Debug\net9.0\SeuProjeto.AssemblyInfo.cs
+C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\obj\Debug\net9.0\SeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\obj\Debug\net9.0\SeuProjeto.csproj.Up2Date
+C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\obj\Debug\net9.0\SeuProjeto.dll
+C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\obj\Debug\net9.0\refint\SeuProjeto.dll
+C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\obj\Debug\net9.0\SeuProjeto.pdb
+C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\obj\Debug\net9.0\SeuProjeto.genruntimeconfig.cache
+C:\Users\forof\OneDrive - Universidade da Madeira\Desktop\ProjetoTlc\SeuProjeto\obj\Debug\net9.0\ref\SeuProjeto.dll

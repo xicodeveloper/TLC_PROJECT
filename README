@@ -1,0 +1,10 @@
+# 0 .Limpar Gerador
+> Remove-Item -Recurse -Force bin, obj, Generated
+
+# 1. Gerar os arquivos do parser
+>java -jar "..\antlr-4.9.3-complete.jar" -Dlanguage=CSharp -visitor -o Generated PICO.g4
+
+# 2. Compile o projeto
+> dotnet clean
+> dotnet build
+> dotnet run

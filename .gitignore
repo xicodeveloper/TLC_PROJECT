@@ -1,0 +1,70 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build Folders (you can keep bin if you'd like)
+bin/
+obj/
+
+# Rider IDE files
+.idea/
+*.sln.iml
+
+# Resharper files
+_ReSharper*/
+*.ReSharper*/
+
+# DotCover
+*.dotCover
+
+# Build results of an ATL Project
+Generated Files/
+
+# NuGet
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+packages/
+
+# msbuild
+*.Build.props
+*.Build.targets
+
+# DotNetCore
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# ANTLR-generated execution output
+Execution.cs
+
+# File system metadata
+ehthumbs.db
+Thumbs.db
+
+# Console logs
+*.trace
+
+# User-specific files
+*.orig
+*.rej
+
+# Pico grammar artifacts (if regenerated automatically)
+*.interp
+*.tokens
+
+# Ignore IntelliSense files
+*.ide
+
+# Ignore Visual Studio Code workspace settings
+.vscode/
